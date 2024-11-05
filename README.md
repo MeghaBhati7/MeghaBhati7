@@ -8,7 +8,7 @@
 
 .
 I am Megha from India, and I am an aspiring Data Analyst having some experience working with MS Excel and MYSQL. 
-
+Currently, I am navigating the path to becoming successful data analyst.
 
 
 <!---
