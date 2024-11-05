@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Power BI
 - 📫 How to reach me @meghabhati196@gmail.com
 
-.
-I am Megha from India, and I am an aspiring Data Analyst having some experience working with MS Excel and MYSQL. 
+
+I am Megha from India, and I am an aspiring Data Analyst having some experience working with MS Excel and SQL. 
 Currently, I am navigating the path to becoming successful data analyst.
 
 
