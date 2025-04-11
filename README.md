@@ -3,11 +3,11 @@
 
 - 👋 Hi there, I’m Megha Bhati
 - 👀 I’m an aspiring Data Analyst
-- 🌱 I’m currently learning Power BI
+- 🌱 I am open to opportunities
 - 📫 How to reach me @meghabhati196@gmail.com
 
 
-I am Megha actively seeking oppurtunities in the Data field, and I am an aspiring Data Analyst having some experience working with MS Excel and SQL. 
+I am Megha actively seeking oppurtunities in the Data field, and I am an aspiring Data Analyst having experience with MS Excel, Analysis and SQL. 
 Currently, I am navigating the path to becoming successful data analyst.
 
 
