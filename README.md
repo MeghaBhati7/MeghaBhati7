@@ -10,7 +10,7 @@
 - 🌟 Fun fact: I enjoy exploring new technologies and doing yoga.
 
 
-Currently, I am navigating the path to becoming successful data analyst.
+
 
 
 <!---
