@@ -2,7 +2,7 @@
 
 
 - 👋 Hi there, I’m Megha Bhati
-- 👀 I’m a Junior Data Analyst Trainee
+- 👀 I’m a Data Analyst
 - 🌱 I’m currently applying Python, R, and SQL for data analytics.
 - 💡 I’m interested in data visualization, exploratory data analysis, and business insights.
 - 🤝 I’m looking to collaborate on data analytics projects.
